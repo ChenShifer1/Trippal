@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647272210892",
+    "project_id": "trippal-22874",
+    "storage_bucket": "trippal-22874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647272210892:android:ea93a0acfc5767469cfd69",
+        "android_client_info": {
+          "package_name": "com.access.trippal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOxVBAUpAuyqZAf6cDXYyWQN07zsG2Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
